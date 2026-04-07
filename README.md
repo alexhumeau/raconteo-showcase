@@ -75,7 +75,7 @@ When ready, export as a print-ready PDF. Order a physical copy, or share digital
 ## Links
 
 - 🌐 **Live app**: [raconteo.com](https://raconteo.com)
-- 📬 **Contact**: [alexandre@raconteo.com](mailto:alexandre@raconteo.com)
+- 📬 **Contact**: [alex.humeau@gmail.com](mailto:alex.humeau@gmail.com)
 
 ---
 
