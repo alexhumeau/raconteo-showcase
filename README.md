@@ -8,6 +8,8 @@
 
 Raconteo helps elderly people capture and transform their life stories into beautiful, readable chapters — and ultimately a printable book they can leave to their family.
 
+![Raconteo Book Editor](assets/book-editor.png)
+
 ---
 
 ## The Problem
@@ -22,6 +24,8 @@ Raconteo removes every barrier.
 
 **1. 🎙️ Pick a theme and answer 3 guided questions**
 Choose from 10 life themes (childhood, work, love, travel, resilience…). Answer at your own pace — by voice or by typing. One question at a time. No overwhelm.
+
+<img src="assets/voice-recording.png" width="280" alt="Voice recording on mobile" />
 
 **2. ✨ AI generates a warm, polished chapter**
 Gemini listens, transcribes, and writes a 300–600 word chapter that sounds like *you* — not a robot. It asks gentle follow-up prompts ("Who was there? What did it smell like?") to enrich the story.
